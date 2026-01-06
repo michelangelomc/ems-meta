@@ -1,0 +1,12 @@
+[submodule "Microservices/microservice/temperature"]
+	path = Microservices/microservice/temperature
+	url = https://github.com/michelangelomc/ems-temp-processing.git
+[submodule "Microservices/temperature"]
+	path = Microservices/temperature
+	url = https://github.com/michelangelomc/ems-temp-processing.git
+[submodule "Microservices/management"]
+	path = Microservices/management
+	url = https://github.com/michelangelomc/ems-device-management.git
+[submodule "Microservices/monitoraring"]
+	path = Microservices/monitoraring
+	url = https://github.com/michelangelomc/ems-temp-monitoring.git
